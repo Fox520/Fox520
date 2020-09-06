@@ -46,8 +46,10 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Fox's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fox520&show_icons=true&hide_border=true" />
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fox520&layout=compact)](https://github.com/Fox520)
 </details>
+
 
 [youtube]: https://www.youtube.com/channel/UCykghFHCxQra1pXvIIyL2IQ
 [instagram]: https://instagram.com/lonecat1911
