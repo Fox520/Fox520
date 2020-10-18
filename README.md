@@ -1,7 +1,5 @@
 ### Hi there, I'm Thomas - aka Fox 👋
 
-## I'm a Developer, Student, and Teacher!
-
 - 🌱 I’m exploring Flutter
 - 🔭 Currently the Flutter Team Head of the Developer Student Club at [NUST](https://nust.na/)
 - ⚡ Fun fact: I love photography
