@@ -4,6 +4,8 @@
 - 🌱 A mobile developer by night
 - ⚡ Fun fact: I love photography
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fox520.readme)
+
 ### Connect with me:
 
 [<img align="left" alt="Thomas David | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,7 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Adding Flutter to Kivy | YouTube Player](https://youtu.be/VyPgORlWEn0)
+- [Autocomplete With Elasticsearch | Production Deployment](https://youtu.be/URKHwL9doIw)
 - [Cloud Messaging Integration with Kivy | Push Notifications](https://youtu.be/006LU_XeQwM)
 - [Firebase Firestore Integration with Kivy](https://youtu.be/aZGXJXzGLhI)
 <!-- YOUTUBE:END -->
@@ -46,7 +48,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fox520&layout=compact)](https://github.com/Fox520)
 </details>
-
 
 [youtube]: https://www.youtube.com/ThomasDavid520
 [instagram]: https://www.instagram.com/thomas.david.1911/
