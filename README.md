@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas - aka Fox 👋
+### Hi there, I'm Thomas
 
 - ✨ A backend developer by day
 - 🌱 A mobile developer by night
